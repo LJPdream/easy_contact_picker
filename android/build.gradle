@@ -22,6 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace  "com.liuwei.easy_contact_picker"
+
     compileSdkVersion 32
 
     defaultConfig {
