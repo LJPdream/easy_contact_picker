@@ -63,7 +63,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace  "com.example.my_plugin_multiplatform"
+    namespace  "com.liuwei.easy_contact_picker"
 
     compileSdk = 36
 
